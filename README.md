@@ -1,5 +1,5 @@
 # Worker-Questions-Solver
-This is a mathemmatical orker questions solver.
+This is a mathemmatical worker questions solver.
 
 Inputs:
 
