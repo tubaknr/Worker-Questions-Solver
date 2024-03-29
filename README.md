@@ -13,6 +13,6 @@ Outputs:
 
 How to run on terminal:
 
-`g++ -o main.exe main.cpp includes/side.cpp` in order to create the `main.exe` file.
+1. `g++ -o main.exe main.cpp includes/side.cpp` in order to create the `main.exe` file.
 
-`./main.exe`
+2. `./main.exe`
